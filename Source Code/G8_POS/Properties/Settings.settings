@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="G8_POS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&amp;OK</Value>
+    </Setting>
+    <Setting Name="dbConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zx</Value>
+    </Setting>
+    <Setting Name="VIS_POSConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">x</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

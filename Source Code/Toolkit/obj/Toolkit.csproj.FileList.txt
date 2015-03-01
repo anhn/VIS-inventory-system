@@ -1,0 +1,8 @@
+bin\Debug\Toolkit.dll
+bin\Debug\Toolkit.pdb
+bin\Debug\Interop.IWshRuntimeLibrary.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.IWshRuntimeLibrary.dll
+obj\Debug\Toolkit.csproj.ResolveComReference.cache
+obj\Debug\Toolkit.dll
+obj\Debug\Toolkit.pdb

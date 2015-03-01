@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VarianceSchema" targetNamespace="http://tempuri.org/VarianceSchema.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/VarianceSchema.xsd" xmlns:mstns="http://tempuri.org/VarianceSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Document">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VListPrintVariances">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Location" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductID" type="xs:string" minOccurs="0" />
+              <xs:element name="Current_x0020_Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Counted_x0020_Quantity" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Product_x0020_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Warehouse" type="xs:string" minOccurs="0" />
+              <xs:element name="ID" type="xs:string" />
+              <xs:element name="PhysicalTakeID" type="xs:string" minOccurs="0" />
+              <xs:element name="Note" type="xs:string" minOccurs="0" />
+              <xs:element name="Check_x0020_Quantity" type="xs:string" />
+              <xs:element name="Variance_x0020__x0025_" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DocumentKey1">
+      <xs:selector xpath=".//mstns:VListPrintVariances" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

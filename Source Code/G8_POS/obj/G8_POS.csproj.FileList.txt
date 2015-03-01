@@ -1,0 +1,14 @@
+bin\Debug\G8_POS.exe.config
+bin\Debug\G8_POS.exe
+bin\Debug\G8_POS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\G8_POS.frmCurrency.resources
+obj\Debug\G8_POS.FrmTaxInformation.resources
+obj\Debug\G8_POS.frmTaxType.resources
+obj\Debug\G8_POS.PaymentMethod.resources
+obj\Debug\G8_POS.Properties.Resources.resources
+obj\Debug\G8_POS.ServiceCharge.resources
+obj\Debug\G8_POS.csproj.GenerateResource.Cache
+obj\Debug\G8_POS.exe.licenses
+obj\Debug\G8_POS.exe
+obj\Debug\G8_POS.pdb

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Inventory.MainForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainForm.cs</FileName>
+      <HashCode>lBsUkS2CAWJ0NCrgASDFtkXb4ii7AfxKdRhJIwpdWi4=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.Data_Access">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Data_Access.cs</FileName>
+      <HashCode>AAQIACAAAAAEAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.DA_Customer">
+    <Position X="0.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DA_Customer.cs</FileName>
+      <HashCode>AAYAAAAAACAAAAAAAAAAYAAGAAEJAAAAAAABEAGAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.Customer">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Customer.cs</FileName>
+      <HashCode>AIAAAEQAQAAAAAAAAAAgAAACkAECAAAEEAIgAAAABgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.ContactBase">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ContactBase.cs</FileName>
+      <HashCode>ACCgAEAAACAQAAIIAAgUiAgCAAIAACEIYAAAogAgAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.Supplier">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Supplier.cs</FileName>
+      <HashCode>AMAAwQAAAAAAgAEAAAigAAQCCAAAAAAAAgQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.DA_Supplier">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DA_Supplier.cs</FileName>
+      <HashCode>AAYAAAAAACAAAAAAAAAAYAAEAAEJAAAAAABAAAGAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.BL_Customer">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BL_Customer.cs</FileName>
+      <HashCode>AAYAAAAAACAAAAAAAAAAAAAAAAEJAAAAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory.BL_Supplier">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BL_Supplier.cs</FileName>
+      <HashCode>AAYAAAAAACAAAAAAAAAAAAAAAAEJAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

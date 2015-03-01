@@ -1,0 +1,13 @@
+bin\Debug\BackUpAndRestore.exe
+bin\Debug\BackUpAndRestore.pdb
+bin\Debug\BackUpAndRestore.xml
+bin\Debug\Toolkit.dll
+bin\Debug\Toolkit.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BackUpAndRestore.Resources.resources
+obj\Debug\BackUpAndRestore.vbproj.GenerateResource.Cache
+obj\Debug\BackUpAndRestore.exe.licenses
+obj\Debug\BackUpAndRestore.exe
+obj\Debug\BackUpAndRestore.xml
+obj\Debug\BackUpAndRestore.pdb
+obj\Debug\BackUpAndRestore.BackupAndRestoreSetting.resources

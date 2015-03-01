@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Restorer.frmMain.resources
+obj\Debug\Restorer.Properties.Resources.resources
+obj\Debug\Restorer.csproj.GenerateResource.Cache
+obj\Debug\Restorer.exe
+obj\Debug\Restorer.pdb
+obj\Restorer.exe
+obj\Restorer.pdb

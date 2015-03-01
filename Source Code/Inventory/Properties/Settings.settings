@@ -1,0 +1,818 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Inventory.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strLanguageSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Language settings</Value>
+    </Setting>
+    <Setting Name="strClose" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Close</Value>
+    </Setting>
+    <Setting Name="strWord_Phrase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Word Phrase</Value>
+    </Setting>
+    <Setting Name="strLanguage1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Language 1</Value>
+    </Setting>
+    <Setting Name="strLanguage2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Language 2</Value>
+    </Setting>
+    <Setting Name="strLanguage3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Language 3</Value>
+    </Setting>
+    <Setting Name="strModules" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Modules</Value>
+    </Setting>
+    <Setting Name="strUserGroupSecurity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User/Group Security</Value>
+    </Setting>
+    <Setting Name="strDepartment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Department</Value>
+    </Setting>
+    <Setting Name="strGroup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group</Value>
+    </Setting>
+    <Setting Name="strExit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Exit</Value>
+    </Setting>
+    <Setting Name="strUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="strGroupUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group User</Value>
+    </Setting>
+    <Setting Name="strGroupUserRole" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group User Role</Value>
+    </Setting>
+    <Setting Name="strGroupModules" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group Modules</Value>
+    </Setting>
+    <Setting Name="strFunctions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Functions</Value>
+    </Setting>
+    <Setting Name="strUser_Group_security" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User/Group security</Value>
+    </Setting>
+    <Setting Name="strmnuFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">File</Value>
+    </Setting>
+    <Setting Name="strmnuDataOper" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data operation</Value>
+    </Setting>
+    <Setting Name="strmnuDataIO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Input/Output</Value>
+    </Setting>
+    <Setting Name="strmnuSystemParam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">System Parameter</Value>
+    </Setting>
+    <Setting Name="strmnuPageSetup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Page Setup</Value>
+    </Setting>
+    <Setting Name="strmnuPrinterSetup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Printer Setup</Value>
+    </Setting>
+    <Setting Name="strmnuUserGroupSecurity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User/Group Security</Value>
+    </Setting>
+    <Setting Name="strmnuLogout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Logout</Value>
+    </Setting>
+    <Setting Name="strmnuUpdateInventory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Update Inventory</Value>
+    </Setting>
+    <Setting Name="strmnuStockTake" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stock Take</Value>
+    </Setting>
+    <Setting Name="strmnuInventorySheet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inventory Sheet</Value>
+    </Setting>
+    <Setting Name="strmnuPhysicalTake" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Physical Take</Value>
+    </Setting>
+    <Setting Name="strmnuPrintWorkSheet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Print work Sheet</Value>
+    </Setting>
+    <Setting Name="strmnuPrintVar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Print Variance</Value>
+    </Setting>
+    <Setting Name="strmnuPostPeriod" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Post Period</Value>
+    </Setting>
+    <Setting Name="strmnuCloseInventory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Close Period</Value>
+    </Setting>
+    <Setting Name="strmnuDailyOper" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Daily Operation</Value>
+    </Setting>
+    <Setting Name="strmnuPurchasing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Purchasing</Value>
+    </Setting>
+    <Setting Name="strmnuOrdering" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ordering</Value>
+    </Setting>
+    <Setting Name="strmnuWarehouse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Warehouse</Value>
+    </Setting>
+    <Setting Name="strmnuWordOrders" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Work Orders</Value>
+    </Setting>
+    <Setting Name="strmnuDailyReport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Daily Report (Developing)</Value>
+    </Setting>
+    <Setting Name="strmnuList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">List</Value>
+    </Setting>
+    <Setting Name="strmnuItemMaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Item Master</Value>
+    </Setting>
+    <Setting Name="strmnuVenderMaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Master</Value>
+    </Setting>
+    <Setting Name="strmnuCustomerMaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Master</Value>
+    </Setting>
+    <Setting Name="strmnuWarehouseMaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Warehouse Master</Value>
+    </Setting>
+    <Setting Name="strmnuOther" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other</Value>
+    </Setting>
+    <Setting Name="strmnuBackup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Backup / Restore</Value>
+    </Setting>
+    <Setting Name="strmnuRestore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Restore</Value>
+    </Setting>
+    <Setting Name="strmnuPurgeDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Purge data</Value>
+    </Setting>
+    <Setting Name="strmnuExport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Export</Value>
+    </Setting>
+    <Setting Name="strmnuImport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Import</Value>
+    </Setting>
+    <Setting Name="strmnuPurchaseOrder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Purchase Orders</Value>
+    </Setting>
+    <Setting Name="strmnuVenderPayments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vender Payments</Value>
+    </Setting>
+    <Setting Name="strmnuSalesOrders" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sales Orders</Value>
+    </Setting>
+    <Setting Name="strmnuInvoices" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Invoices</Value>
+    </Setting>
+    <Setting Name="strmnuCustomerPayments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Payments (Developing)</Value>
+    </Setting>
+    <Setting Name="strmnuReceiving" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiving</Value>
+    </Setting>
+    <Setting Name="strmnuPickListing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Picking List</Value>
+    </Setting>
+    <Setting Name="strmnuPackListing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Packing List</Value>
+    </Setting>
+    <Setting Name="strmnuDeliveryNote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Delivery Note</Value>
+    </Setting>
+    <Setting Name="strmnuTransfers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Transfers</Value>
+    </Setting>
+    <Setting Name="strmnuAdjustInventory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adjust Inventory</Value>
+    </Setting>
+    <Setting Name="strmnuItem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Item</Value>
+    </Setting>
+    <Setting Name="strmnuBillofMaterial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bill of Material</Value>
+    </Setting>
+    <Setting Name="strmnuVender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vender</Value>
+    </Setting>
+    <Setting Name="strmnuVenderType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vender Type</Value>
+    </Setting>
+    <Setting Name="strmnuCustomer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer</Value>
+    </Setting>
+    <Setting Name="strmnuCustomerType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CustomerType</Value>
+    </Setting>
+    <Setting Name="strmnuLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Location</Value>
+    </Setting>
+    <Setting Name="strmnuPaymentTerms" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Payment Terms</Value>
+    </Setting>
+    <Setting Name="strmnuPaymentMethods" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Payment Methods</Value>
+    </Setting>
+    <Setting Name="strmnuCustomerMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Message</Value>
+    </Setting>
+    <Setting Name="strmnuTaxCodeList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Code List</Value>
+    </Setting>
+    <Setting Name="strmnuShipViaList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ship Via List</Value>
+    </Setting>
+    <Setting Name="strmnuCurrency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Currency</Value>
+    </Setting>
+    <Setting Name="strmnuLanguageSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Language Settings</Value>
+    </Setting>
+    <Setting Name="strmnuMaintenance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Maintenance</Value>
+    </Setting>
+    <Setting Name="strmnuOurCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Our Company</Value>
+    </Setting>
+    <Setting Name="strmnuInterface" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Interface</Value>
+    </Setting>
+    <Setting Name="strmnuPointOfSales" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Point Of Sales (Developing)</Value>
+    </Setting>
+    <Setting Name="strmnuContactManage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contact Management </Value>
+    </Setting>
+    <Setting Name="strmnuAccounting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Accounting</Value>
+    </Setting>
+    <Setting Name="strmnuWebsite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Website (Developing)</Value>
+    </Setting>
+    <Setting Name="strmnuHelp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Help</Value>
+    </Setting>
+    <Setting Name="strmnuContents" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contents</Value>
+    </Setting>
+    <Setting Name="strmnuAbout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">About</Value>
+    </Setting>
+    <Setting Name="strDepartmentName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Department Name</Value>
+    </Setting>
+    <Setting Name="strViewStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">View Status</Value>
+    </Setting>
+    <Setting Name="strUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User name</Value>
+    </Setting>
+    <Setting Name="strPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="strAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address</Value>
+    </Setting>
+    <Setting Name="strPhoneNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Phone Number</Value>
+    </Setting>
+    <Setting Name="strEmailAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email Address</Value>
+    </Setting>
+    <Setting Name="strNotes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Notes</Value>
+    </Setting>
+    <Setting Name="strShopName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shop Name</Value>
+    </Setting>
+    <Setting Name="strRoleName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Role Name</Value>
+    </Setting>
+    <Setting Name="strFunctionName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Function Name</Value>
+    </Setting>
+    <Setting Name="strModuleName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Module Name</Value>
+    </Setting>
+    <Setting Name="strSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Search</Value>
+    </Setting>
+    <Setting Name="strInventory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inventory</Value>
+    </Setting>
+    <Setting Name="strNameAndAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Main</Value>
+    </Setting>
+    <Setting Name="strMrMrs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mr/Mrs</Value>
+    </Setting>
+    <Setting Name="strFirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Product Name</Value>
+    </Setting>
+    <Setting Name="strLastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Last Name</Value>
+    </Setting>
+    <Setting Name="strMiddleName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Description</Value>
+    </Setting>
+    <Setting Name="strGender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gender</Value>
+    </Setting>
+    <Setting Name="strContactName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contact Name</Value>
+    </Setting>
+    <Setting Name="strCompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Family</Value>
+    </Setting>
+    <Setting Name="strEmailName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Product ID</Value>
+    </Setting>
+    <Setting Name="strAltContact" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unit of Measurement</Value>
+    </Setting>
+    <Setting Name="strAddress1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address1</Value>
+    </Setting>
+    <Setting Name="strAddress2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address2</Value>
+    </Setting>
+    <Setting Name="strCountry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Country</Value>
+    </Setting>
+    <Setting Name="strCityTown" Type="System.String" Scope="User">
+      <Value Profile="(Default)">City/Town</Value>
+    </Setting>
+    <Setting Name="strZipPostal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zip/Postal</Value>
+    </Setting>
+    <Setting Name="strProvince" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Province</Value>
+    </Setting>
+    <Setting Name="strOtherInform" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other Informations</Value>
+    </Setting>
+    <Setting Name="strPhoneNo1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Phone 1</Value>
+    </Setting>
+    <Setting Name="strPhoneNo2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Phone 2</Value>
+    </Setting>
+    <Setting Name="strFax1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fax 1</Value>
+    </Setting>
+    <Setting Name="strFax2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fax 2</Value>
+    </Setting>
+    <Setting Name="strCell1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cell 1</Value>
+    </Setting>
+    <Setting Name="strCell2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Address 2</Value>
+    </Setting>
+    <Setting Name="strEmail1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email 1</Value>
+    </Setting>
+    <Setting Name="strEmail2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email 2</Value>
+    </Setting>
+    <Setting Name="strEmail3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email 3</Value>
+    </Setting>
+    <Setting Name="strWebsite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Website</Value>
+    </Setting>
+    <Setting Name="strPaymentTerm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Code</Value>
+    </Setting>
+    <Setting Name="strTaxName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Code Name</Value>
+    </Setting>
+    <Setting Name="strAccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Account name</Value>
+    </Setting>
+    <Setting Name="strAccountNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Account number</Value>
+    </Setting>
+    <Setting Name="strCreditLimit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Credit Limit</Value>
+    </Setting>
+    <Setting Name="strCurrency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Currency</Value>
+    </Setting>
+    <Setting Name="strBalance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Balance</Value>
+    </Setting>
+    <Setting Name="strDiscount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discount</Value>
+    </Setting>
+    <Setting Name="strTaxAgent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Agent</Value>
+    </Setting>
+    <Setting Name="strSubscribeNews" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Subscribe News</Value>
+    </Setting>
+    <Setting Name="strTax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax</Value>
+    </Setting>
+    <Setting Name="strState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">State</Value>
+    </Setting>
+    <Setting Name="strPaymentTermID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Payment Term ID</Value>
+    </Setting>
+    <Setting Name="strTaxCodeID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Code ID</Value>
+    </Setting>
+    <Setting Name="strParentID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Parent ID</Value>
+    </Setting>
+    <Setting Name="strContactGroupID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contact Group ID</Value>
+    </Setting>
+    <Setting Name="strUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User ID</Value>
+    </Setting>
+    <Setting Name="strOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OK</Value>
+    </Setting>
+    <Setting Name="strCancel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cancel</Value>
+    </Setting>
+    <Setting Name="strBilling" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Billing</Value>
+    </Setting>
+    <Setting Name="strShipping" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shipping</Value>
+    </Setting>
+    <Setting Name="strMr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mr</Value>
+    </Setting>
+    <Setting Name="strMrs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mrs</Value>
+    </Setting>
+    <Setting Name="strMiss" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Miss</Value>
+    </Setting>
+    <Setting Name="strMs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ms</Value>
+    </Setting>
+    <Setting Name="strEditCustomer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit customer</Value>
+    </Setting>
+    <Setting Name="strEditSupplier" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit supplier</Value>
+    </Setting>
+    <Setting Name="strWarningDelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are you sure you want to delete the selected data in this list.</Value>
+    </Setting>
+    <Setting Name="strSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Save</Value>
+    </Setting>
+    <Setting Name="strEdit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Edit</Value>
+    </Setting>
+    <Setting Name="strNew" Type="System.String" Scope="User">
+      <Value Profile="(Default)">New</Value>
+    </Setting>
+    <Setting Name="strDelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Delete</Value>
+    </Setting>
+    <Setting Name="strSuppliers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Suppliers</Value>
+    </Setting>
+    <Setting Name="strFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Format</Value>
+    </Setting>
+    <Setting Name="strAppearance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Appearance</Value>
+    </Setting>
+    <Setting Name="strOrigin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Origin</Value>
+    </Setting>
+    <Setting Name="strDefaultFont" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default Font</Value>
+    </Setting>
+    <Setting Name="strDateFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Date Format</Value>
+    </Setting>
+    <Setting Name="strTimeFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Time Format</Value>
+    </Setting>
+    <Setting Name="strDefaultCurrency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default Currency</Value>
+    </Setting>
+    <Setting Name="cfgDefaultFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial, 8.25pt</Value>
+    </Setting>
+    <Setting Name="cfgLanguage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfgDateFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d/M/yyyy</Value>
+    </Setting>
+    <Setting Name="cfgTimeFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hh:mm tt</Value>
+    </Setting>
+    <Setting Name="cfgDefaultCurrency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USD</Value>
+    </Setting>
+    <Setting Name="strShowAll" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Show all</Value>
+    </Setting>
+    <Setting Name="strAdd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Add</Value>
+    </Setting>
+    <Setting Name="strPrint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Print</Value>
+    </Setting>
+    <Setting Name="strPreview" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Preview</Value>
+    </Setting>
+    <Setting Name="strHelp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Help</Value>
+    </Setting>
+    <Setting Name="strClear" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Clear</Value>
+    </Setting>
+    <Setting Name="strCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Category</Value>
+    </Setting>
+    <Setting Name="strCategoryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Category Name</Value>
+    </Setting>
+    <Setting Name="strDescription" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Description</Value>
+    </Setting>
+    <Setting Name="strCategoryInformation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Category Informations</Value>
+    </Setting>
+    <Setting Name="strCategorySelect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Category Select</Value>
+    </Setting>
+    <Setting Name="strNumberFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Number format</Value>
+    </Setting>
+    <Setting Name="cfgNumberFormat" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="strSaleOrderNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt_SO No</Value>
+    </Setting>
+    <Setting Name="strSaleOrderDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SO Date</Value>
+    </Setting>
+    <Setting Name="strSaleOrderTaxCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tax Code</Value>
+    </Setting>
+    <Setting Name="strSaleOrderShopName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shop Name</Value>
+    </Setting>
+    <Setting Name="strSaleOrderType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SO Type</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt Customer Id</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Name</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerAdd1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Address 1</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerAdd2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Address 2</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerAdd3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Address 3</Value>
+    </Setting>
+    <Setting Name="strSaleOrderCustomerPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer Phone</Value>
+    </Setting>
+    <Setting Name="strSaleOrderPayType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Payment Type</Value>
+    </Setting>
+    <Setting Name="strSaleOrderPayAmount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Total Amount</Value>
+    </Setting>
+    <Setting Name="strSaleOrderOSAmount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OS Amount</Value>
+    </Setting>
+    <Setting Name="strSaleOrderDiscount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discount</Value>
+    </Setting>
+    <Setting Name="strSaleOrderNote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Note</Value>
+    </Setting>
+    <Setting Name="strSaleOrderStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">View Status</Value>
+    </Setting>
+    <Setting Name="strGroupSaleOrder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sale Orders</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt PO No</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PO Date</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PO Type</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderDevDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Delivery Date</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderShipTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ship To</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt Supplier ID</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Name</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierAdd1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Address 1</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierAdd2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Address 2</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierAdd3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Address 3</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderSupplierPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier Phone</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderTotalAmt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Total Amt</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderNote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Notes</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">View Status</Value>
+    </Setting>
+    <Setting Name="strPurchaseOrderGroup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Purchase Orders</Value>
+    </Setting>
+    <Setting Name="strWarningTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Warning:</Value>
+    </Setting>
+    <Setting Name="MailExpireSubject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Inventory Exprire Product Alert.</Value>
+    </Setting>
+    <Setting Name="MailReorderSubject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Inventory Product Reorder Alert.</Value>
+    </Setting>
+    <Setting Name="EXPORT_INVENTORY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;INVENTORY_EXPORT&gt;&lt;/INVENTORY_EXPORT&gt;</Value>
+    </Setting>
+    <Setting Name="TB_WAREHOUSE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">warehouse_master</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_IN" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockInMaster</Value>
+    </Setting>
+    <Setting Name="TB_LOCATION" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Location_Master</Value>
+    </Setting>
+    <Setting Name="TB_PRODUCT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ProductMaster</Value>
+    </Setting>
+    <Setting Name="TB_CUSTOMER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CustomerContact</Value>
+    </Setting>
+    <Setting Name="TB_BARCODE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BarcodeMaster</Value>
+    </Setting>
+    <Setting Name="TB_BOM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BoMMaster</Value>
+    </Setting>
+    <Setting Name="TB_PAYMENT_TERM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Payment_Term_Master</Value>
+    </Setting>
+    <Setting Name="TB_PURCHASE_ORDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t_Purchase_Order_Header</Value>
+    </Setting>
+    <Setting Name="TB_SALES_ORDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t_Sales_Order_Header</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_OUT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockOutMaster</Value>
+    </Setting>
+    <Setting Name="TB_PICKING_LIST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PickingListMaster</Value>
+    </Setting>
+    <Setting Name="TB_PACKING_LIST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PackingListMaster</Value>
+    </Setting>
+    <Setting Name="TB_DELIVERY_NOTES" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeliveryNotesMaster</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_TRANSFER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockTransferMaster</Value>
+    </Setting>
+    <Setting Name="TB_INVENTORY_ADJUSTMENT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InventoryAdjustmentMaster</Value>
+    </Setting>
+    <Setting Name="TB_INVENTORY_UPDATE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InventoryUpdateMaster</Value>
+    </Setting>
+    <Setting Name="TB_PHYSICAL_TAKE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PhysicalTakeMaster</Value>
+    </Setting>
+    <Setting Name="TB_PRODUCT_CATEGORY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ProductCategory</Value>
+    </Setting>
+    <Setting Name="TB_PRODUCT_FAMILY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ProductFamily</Value>
+    </Setting>
+    <Setting Name="TB_PURCHASE_ORDER_DETAIL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t_Purchase_Order_Detail</Value>
+    </Setting>
+    <Setting Name="TB_SALES_ORDER_DETAIL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t_Sales_Order_Detail</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_IN_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockInDetails</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_OUT_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockOutDetails</Value>
+    </Setting>
+    <Setting Name="TB_PICKING_LIST_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PickingListDetails</Value>
+    </Setting>
+    <Setting Name="TB_PACKING_LIST_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PackingListDetails</Value>
+    </Setting>
+    <Setting Name="TB_DELIVERY_NOTES_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeliveryNotesDetails</Value>
+    </Setting>
+    <Setting Name="TB_INVENTORY_ADJUSTMENT_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InventoryAdjustmentDetails</Value>
+    </Setting>
+    <Setting Name="TB_INVENTORY_UPDATE_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InventoryUpdateDetails</Value>
+    </Setting>
+    <Setting Name="TB_PHYSICAL_TAKE_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PhysicalTakeDetails</Value>
+    </Setting>
+    <Setting Name="TB_STOCK_TRANSFER_DETAILS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StockTransferDetails</Value>
+    </Setting>
+    <Setting Name="TB_PRODUCT_SUB_CATEGORY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ProductSubCategory</Value>
+    </Setting>
+    <Setting Name="TB_UOM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UOM</Value>
+    </Setting>
+    <Setting Name="TB_CONTACT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Contact</Value>
+    </Setting>
+    <Setting Name="TB_TAX_CODE_MASTER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tax_code_master</Value>
+    </Setting>
+    <Setting Name="TB_ORDER_TYPE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OrderType</Value>
+    </Setting>
+    <Setting Name="TB_SHOP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t_Shop</Value>
+    </Setting>
+    <Setting Name="TB_DELIVERY_METHOD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeliveryMethod</Value>
+    </Setting>
+    <Setting Name="TB_PAYMENT_METHOD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PaymentMethod</Value>
+    </Setting>
+    <Setting Name="TB_WORK_ORDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WorkOrder</Value>
+    </Setting>
+    <Setting Name="TB_INVOICES" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Invoices</Value>
+    </Setting>
+    <Setting Name="TB_PERIOD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Periods</Value>
+    </Setting>
+    <Setting Name="DB_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DB_Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DB_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DB_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Vis_InventoryConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Server=SMARTSERVER;Database=Duong-Inventory;Uid=sa;Pwd=smart;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Server=SMARTSERVER;Database=Duong-Inventory;Uid=sa;Pwd=smart;</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=SMARTSERVER;Database=Duong-Inventory;Uid=sa;Pwd=smart;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
